@@ -80,7 +80,7 @@ We welcome contributions to CampX! To get started, follow the guidelines in the 
 
 ## Contributors
 
-- **Vignesh** - [GitHub Profile](https://github.com/Vignesh025)
+[![Contributors](https://contrib.rocks/image?repo=VigneshDevHub/CampX)](https://github.com/VigneshDevHub/CampX/graphs/contributors)
 
 ## Code of Conduct
 
